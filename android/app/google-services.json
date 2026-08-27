@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "750464718466",
+    "firebase_url": "https://innoclassroom-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "innoclassroom",
+    "storage_bucket": "innoclassroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750464718466:android:4b189c4ff925d5a73ac69b",
+        "android_client_info": {
+          "package_name": "com.example.pinoy_trivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBiv374Qjo5pKronQK9SVAEZTH9qH3EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
